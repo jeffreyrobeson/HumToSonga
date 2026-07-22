@@ -1,0 +1,8 @@
+{
+  "name": "AI Music Matcher",
+  "description": "AI-driven music creation application: take a photo, click an emotion, and find the perfect soundtrack.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
